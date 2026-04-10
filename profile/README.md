@@ -1,4 +1,4 @@
-# 👋 Welcome to the STAMPED Principles organization!
+# 👋 Welcome to the STAMPED Principles organization
 
 This is our GitHub organization of compiled resources related to the **STAMPED Principles** of scientific research objects.
 
