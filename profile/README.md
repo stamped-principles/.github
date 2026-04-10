@@ -1,6 +1,8 @@
 # 👋 Welcome to the STAMPED Principles organization!
 
-This is our GitHub organization of compiled resources related to the **STAMPED Principles** for rigorous and reproducible scientific workflows.
+This is our GitHub organization of compiled resources related to the **STAMPED Principles** of scientific research objects.
+
+Any scientific workflow that adheres to the following principles is guaranteed to be [rigorous and reproducible](https://grants.nih.gov/policy-and-compliance/policy-topics/reproducibility)!
 
 - 📦 **S**elf-contained
 - 🔍 **T**racked
