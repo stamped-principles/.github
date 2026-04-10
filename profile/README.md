@@ -7,13 +7,13 @@ This is our GitHub organization of compiled resources related to the **STAMPED P
 
 Any scientific workflow that adheres to the following principles is guaranteed to be [rigorous and reproducible](https://grants.nih.gov/policy-and-compliance/policy-topics/reproducibility)!
 
-- 📦 **S**elf-contained
-- 🔍 **T**racked
-- ▶️ **A**ctionable
-- 🧩 **M**odular
-- 🚢 **P**ortable
-- 💨 **E**phemeral
-- 🌐 **D**istributable
+> 📦 **S**elf-contained<br>
+> 🔍 **T**racked<br>
+> ▶️ **A**ctionable<br>
+> 🧩 **M**odular<br>
+> 🚢 **P**ortable<br>
+> 💨 **E**phemeral<br>
+> 🌐 **D**istributable
 
 
 
