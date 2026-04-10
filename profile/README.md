@@ -1,3 +1,6 @@
+<img width="1022" height="389" alt="image" src="https://github.com/user-attachments/assets/39f93e62-4625-4c08-8999-fbedafab4f57" />
+
+
 # 👋 Welcome to the STAMPED Principles organization
 
 This is our GitHub organization of compiled resources related to the **STAMPED Principles** of scientific research objects.
