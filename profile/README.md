@@ -7,13 +7,13 @@ This is our GitHub organization of compiled resources related to the **STAMPED P
 
 Any scientific workflow that adheres to the following principles is guaranteed to be [rigorous and reproducible](https://grants.nih.gov/policy-and-compliance/policy-topics/reproducibility)!
 
-> 📦 **S**elf-contained<br>
-> 🔍 **T**racked<br>
-> ▶️ **A**ctionable<br>
-> 🧩 **M**odular<br>
-> 🚢 **P**ortable<br>
-> 💨 **E**phemeral<br>
-> 🌐 **D**istributable
+> 📦 **S**elf-contained: Everything under one boundary<br>
+> 🔍 **T**racked: Version control & provenance<br>
+> ▶️ **A**ctionable: Executable & documented workflows<br>
+> 🧩 **M**odular: Independent & composable modules<br>
+> 🚢 **P**ortable: Runs anywhere with explicit specifications<br>
+> 💨 **E**phemeral: Transient compute environment<br>
+> 🌐 **D**istributable: Shareable, persistent, and retrievable
 
 
 
