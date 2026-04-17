@@ -27,11 +27,11 @@ Any scientific workflow that adheres to the following principles is guaranteed t
 
 ### History and Affiliations
 
-- 🐍 [PyMVPA](https://www.pymvpa.org)
-- 🐧 [NeuroDebian](https://neuro.debian.net)
 - 💻 [DataLad](https://www.datalad.org) and [The DataLad Handbook](http://handbook.datalad.org/en/latest/)
+- 🌌 [YODA Principles](https://github.com/myyoda)
+- 🐧 [NeuroDebian](https://neuro.debian.net)
+- 🐍 [PyMVPA](https://www.pymvpa.org)
 - :book: [BIDS Standard](https://bids.neuroimaging.io)
 - 🧲 [OpenNeuro](https://openneuro.org/)
-- 🌌 [YODA Principles](https://github.com/myyoda)
 - 🧠 [DANDI Archive](https://dandiarchive.org/)
 - 🔥 [EMBER Archive](https://emberarchive.org/)
