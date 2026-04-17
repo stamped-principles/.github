@@ -1,4 +1,4 @@
-<img width="1022" height="389" alt="image" src="https://github.com/user-attachments/assets/39f93e62-4625-4c08-8999-fbedafab4f57" />
+<img width="1022" height="389" alt="image" src="https://raw.githubusercontent.com/stamped-principles/stamped-branding/main/initial/main-logo.png" />
 
 
 # 👋 Welcome to the STAMPED Principles organization
@@ -19,9 +19,9 @@ Any scientific workflow that adheres to the following principles is guaranteed t
 
 ## Quick Links
 
-- 📓 [Journal Article (in progress)](https://github.com/myyoda/principles-paper)
-- 🔍 [Collection of Examples](https://github.com/myyoda/principles-examples)
-- 📋 [Compliance Checklist](https://github.com/stamped-principles/checklist)
+- 📓 [Journal Article (in progress)](https://github.com/stamped-principles/stamped-paper)
+- 🔍 [Collection of Examples](https://github.com/stamped-principles/stamped-examples)
+- 📋 [Compliance Checklist](https://github.com/stamped-principles/stamped-checklist)
 
 
 
