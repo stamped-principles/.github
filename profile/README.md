@@ -19,9 +19,9 @@ Any scientific workflow that adheres to the following principles is guaranteed t
 
 ## Quick Links
 
-- 📓 [Journal Article (in progress)](https://paper.stamped-principles) [:octocat:](https://github.com/stamped-principles/stamped-paper)
-- 🔍 [Collection of Examples](https://examples.stamped-principles) [:octocat:](https://github.com/stamped-principles/stamped-examples)
-- 📋 [Compliance Checklist](https://checklist.stamped-principles) [:octocat:](https://github.com/stamped-principles/stamped-checklist)
+- 📓 [Journal Article (in progress)](https://paper.stamped-principles.org) [:octocat:](https://github.com/stamped-principles/stamped-paper)
+- 🔍 [Collection of Examples](https://examples.stamped-principles.org) [:octocat:](https://github.com/stamped-principles/stamped-examples)
+- 📋 [Compliance Checklist](https://checklist.stamped-principles.org) [:octocat:](https://github.com/stamped-principles/stamped-checklist)
 
 
 
