@@ -9,7 +9,7 @@ Any scientific workflow that adheres to the following principles is guaranteed t
 
 > 📦 **S**elf-contained: Everything under one boundary<br>
 > 🔍 **T**racked: Version control & provenance<br>
-> ▶️ **A**ctionable: Executable & documented workflows<br>
+> ▶️  **A**ctionable: Executable & documented workflows<br>
 > 🧩 **M**odular: Independent & composable modules<br>
 > 🚢 **P**ortable: Runs anywhere with explicit specifications<br>
 > 💨 **E**phemeral: Transient compute environment<br>
@@ -19,9 +19,9 @@ Any scientific workflow that adheres to the following principles is guaranteed t
 
 ## Quick Links
 
-- 📓 [Journal Article (in progress)](https://github.com/stamped-principles/stamped-paper)
-- 🔍 [Collection of Examples](https://github.com/stamped-principles/stamped-examples)
-- 📋 [Compliance Checklist](https://github.com/stamped-principles/stamped-checklist)
+- 📓 [Journal Article (in progress)](https://paper.stamped-principles) [:octocat:](https://github.com/stamped-principles/stamped-paper)
+- 🔍 [Collection of Examples](https://examples.stamped-principles) [:octocat:](https://github.com/stamped-principles/stamped-examples)
+- 📋 [Compliance Checklist](https://checklist.stamped-principles) [:octocat:](https://github.com/stamped-principles/stamped-checklist)
 
 
 
