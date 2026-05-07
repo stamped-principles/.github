@@ -31,7 +31,7 @@ Materials across repositories in this organization have been prepared with the a
 
 Our working practice is:
 
-- 👤 **Human review and accountability.** Final versions of all work — prose, code, figures, and specifications — are reviewed by human authors, who remain accountable for the content.
+- 👤 **Human review and accountability.** We strive to have final versions of all work — prose, code, figures, and specifications — to be reviewed and/or edited by human authors, who remain accountable for the content.
 - 🪪 **Transparent annotation.** Where AI tools materially contributed to a commit, we strive to annotate that commit adequately and trustworthily (for example, via a `Co-Authored-By` trailer identifying the tool and model version), so that the provenance of individual changes can be inspected in the git history.
 - 🔍 **Inspectable provenance.** Because all work is developed in public git repositories with pull-request review, readers can trace portions of the materials which involved AI assistance.
 
