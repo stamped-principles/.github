@@ -111,13 +111,6 @@ def main() -> None:
         shutil.copytree(assets_src, assets_dest, dirs_exist_ok=True)
         print(f"copied {assets_src} -> {assets_dest}")
 
-    webmanifest = Path(__file__).parent / "site.webmanifest"
-    if webmanifest.exists():
-        dest = args.output_dir / "assets" / "site.webmanifest"
-        dest.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(webmanifest, dest)
-        print(f"copied {webmanifest} -> {dest}")
-
     if args.cname:
         cname = args.output_dir / "CNAME"
         cname.write_text(args.cname + "\n", encoding="utf-8")
