@@ -19,11 +19,11 @@ TEMPLATE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
-<link rel="icon" type="image/x-icon" href="favicon.ico">
-<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="manifest" href="site.webmanifest">
+<link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="assets/site.webmanifest">
 <style>
   body {{
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
@@ -105,11 +105,11 @@ def main() -> None:
     for path in copy_local_images(args.input.parent, args.output_dir):
         print(f"copied {path}")
 
-    webmanifest = args.input.parent / "site.webmanifest"
-    if webmanifest.exists():
-        dest = args.output_dir / "site.webmanifest"
-        shutil.copy2(webmanifest, dest)
-        print(f"copied {dest}")
+    assets_src = args.input.parent / "assets"
+    if assets_src.is_dir():
+        assets_dest = args.output_dir / "assets"
+        shutil.copytree(assets_src, assets_dest, dirs_exist_ok=True)
+        print(f"copied {assets_src} -> {assets_dest}")
 
     if args.cname:
         cname = args.output_dir / "CNAME"
