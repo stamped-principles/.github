@@ -1,4 +1,4 @@
-<img width="1022" height="389" alt="image" src="https://raw.githubusercontent.com/stamped-principles/stamped-branding/main/initial/main-logo.png" />
+<img width="1022" height="389" alt="image" src="https://raw.githubusercontent.com/stamped-principles/stamped-branding/main/ver-2/name-main+logo/name-main+logo_ver-2.svg" />
 
 
 # 👋 Welcome to the STAMPED Principles organization
