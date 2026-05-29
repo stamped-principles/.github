@@ -20,7 +20,7 @@ Any scientific workflow that adheres to the following principles is guaranteed t
 ## Quick Links
 
 - 🚪 [This Entry Point](https://stamped-principles.org) [:octocat:](https://github.com/stamped-principles/.github)
-- 📓 [Journal Article (in progress)](https://paper.stamped-principles.org) [:octocat:](https://github.com/stamped-principles/stamped-paper)
+- 📓 [Journal Article (WiP)](https://paper.stamped-principles.org) [:octocat:](https://github.com/stamped-principles/stamped-paper) [preprint@OSF](https://doi.org/10.31222/osf.io/f3h82_v1)
 - 🔍 [Collection of Examples](https://examples.stamped-principles.org) [:octocat:](https://github.com/stamped-principles/stamped-examples)
 - 📋 [Compliance Checklist](https://checklist.stamped-principles.org) [:octocat:](https://github.com/stamped-principles/stamped-checklist)
 
