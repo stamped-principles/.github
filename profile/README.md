@@ -26,6 +26,12 @@ Any scientific workflow that adheres to the following principles is guaranteed t
 
 
 
+## Presentations
+
+- 🎙️ **2026 BBQS** — [Slides (PDF)](https://datasets.datalad.org/centerforopenneuroscience/talks/2026-bbqs-stamped.pdf) · [Video](https://datasets.datalad.org/centerforopenneuroscience/contube/web/#/video/8NTWKHer5Zo?tab=local)
+
+
+
 ### Use of AI in the Preparation of Materials
 
 Materials across repositories in this organization have been prepared with the assistance of agentic AI coding tools and large language models (LLMs), alongside direct human authoring and supervision.
