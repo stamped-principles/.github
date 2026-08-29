@@ -56,4 +56,4 @@ AI tools are used as assistive instruments; they do not substitute for the scien
 - 🌌 [YODA Principles](https://github.com/myyoda)
 - 🧠 [DANDI Archive](https://dandiarchive.org/)
 - 🔥 [EMBER Archive](https://emberarchive.org/)
-- 🐱 con
+- 🐱 [CON](https://centerforopenneuroscience.org/)
