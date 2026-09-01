@@ -28,7 +28,7 @@ Any scientific workflow that adheres to the following principles is guaranteed t
 
 ## Presentations
 
-- 🎙️ **2026 BBQS** — [Slides (PDF)](https://datasets.datalad.org/centerforopenneuroscience/talks/2026-bbqs-stamped.pdf) · [Video](https://datasets.datalad.org/centerforopenneuroscience/con[...]
+- 🎙️ **2026 BBQS** — [Slides (PDF)](https://datasets.datalad.org/centerforopenneuroscience/talks/2026-bbqs-stamped.pdf) · [Video](https://datasets.datalad.org/centerforopenneuroscience/contube/web/#/video/8NTWKHer5Zo).
 
 
 
